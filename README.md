@@ -35,7 +35,7 @@ I am eager to apply my knowledge and grow within the IT industry. If you're inte
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F017%2F119%2F660%2Foriginal%2Fgithub-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg&f=1&nofb=1&ipt=10391a8fd8c56f89e389ea5c75616e007cdfbf1b4903ce8642614f7da04f986d&ipo=images" width="234"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8OKgg8BbPjzVTQpkt3e7ab2V4NKWkDDexA&s" width="282"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8OKgg8BbPjzVTQpkt3e7ab2V4NKWkDDexA&s" width="282"></img>
-<img scr="https://camo.githubusercontent.com/6660713abc1096f86691aa19d73e04d22a2ae4a60d9348271c0a3aafe8c8d482/68747470733a2f2f6873746f2e6f72672f67657470726f2f686162722f706f73745f696d616765732f3434622f6432632f6339382f34346264326363393866326361366535643638396632316337373263653536652e706e67" width="282"></img>
+<img scr="https://learnbatta.com/assets/images/sqlalchemy/logo.png" width="282"></img>
 
 <!--
 - 👯 I’m looking to collaborate on ...

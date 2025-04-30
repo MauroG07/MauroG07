@@ -28,7 +28,7 @@ I am eager to apply my knowledge and grow within the IT industry. If you're inte
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG06zD3zZuY2AZDs345CcI5XkAFv8msnGHTw&s" width="250"></img>
 <img src="https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F6Dqa9T8XOOC95yJb0z9jew%2Fce4932b8d23046f260510e24c1ec39e1%2Fthumbnail.png&w=3840&q=75" width="224"></img>
-<img src="https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg" width="234"></img>
+<img src="https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg" width="236"></img>
 <img src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" width="208"></img>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Fthemes%2F3067767%2Fsettings_images%2Fomx3KZGSamzipD0jXUwg_file.jpg&f=1&nofb=1&ipt=037fb97c6c212e66b80fb43998874c9d278399c80caf5b88136d2322820817e5&ipo=images" width="210"></img>
 <img src="https://wiki.cifprodolfoucha.es/images/1/12/Html5-css3.jpg" width="242"></img>

@@ -32,7 +32,7 @@ I am eager to apply my knowledge and grow within the IT industry. If you're inte
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Fthemes%2F3067767%2Fsettings_images%2Fomx3KZGSamzipD0jXUwg_file.jpg&f=1&nofb=1&ipt=037fb97c6c212e66b80fb43998874c9d278399c80caf5b88136d2322820817e5&ipo=images" width="210"></img>
 <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.solucionex.com%2Fsites%2Fdefault%2Ffiles%2Fposts%2Fimagen%2Fgit.jpg&f=1&nofb=1&ipt=80e6d049fc199ad4b89d92ad2e9542b2a888c9d65d4ab0148d5e8d893800b7de&ipo=images" width=196px></img>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F017%2F119%2F660%2Foriginal%2Fgithub-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg&f=1&nofb=1&ipt=10391a8fd8c56f89e389ea5c75616e007cdfbf1b4903ce8642614f7da04f986d&ipo=images" width="234"></img>
-<img scr="https://images.seeklogo.com/logo-png/42/1/jwt-logo-png_seeklogo-428033.png"></img>
+<img scr="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvxys08ydyvjkuivjlqt.png"></img>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

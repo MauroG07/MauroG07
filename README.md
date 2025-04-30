@@ -9,12 +9,12 @@ I am a **Full-Stack Developer** specializing in **backend**, focused on building
 I'm passionate about **continuous learning** and process optimization. I enjoy tackling technical challenges, analyzing complex problems, and refining architectures to deliver solid solutions.  
 
 ### 🔧 Technologies & Tools  
-- **Backend:** Python, Flask, SQLAlchemy, JWT  
-- **Frontend:** JavaScript, HTML, CSS  
+- **Backend:** Python, Flask, JWT  
+- **Frontend:** JavaScript, HTML5, CSS3 
 - **Frameworks & Libraries:** React, Bootstrap  
-- **Databases:** PostgreSQL  
+- **Databases:** PostgreSQL, SQLAlchemy
 - **System Integration:** APIs RESTful  
-- **Development Methodologies:** Agile, Scrum  
+- **Development Methodologies:** Agile, SCRUM  
 - **Testing & Debugging:** Postman  
 
 ### 📌 Featured Projects  

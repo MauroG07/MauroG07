@@ -35,7 +35,7 @@ I am eager to apply my knowledge and grow within the IT industry. If you're inte
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F017%2F119%2F660%2Foriginal%2Fgithub-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg&f=1&nofb=1&ipt=10391a8fd8c56f89e389ea5c75616e007cdfbf1b4903ce8642614f7da04f986d&ipo=images" width="234"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8OKgg8BbPjzVTQpkt3e7ab2V4NKWkDDexA&s" width="282"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK8OKgg8BbPjzVTQpkt3e7ab2V4NKWkDDexA&s" width="282"></img>
-<img scr="https://learnbatta.com/assets/images/sqlalchemy/logo.png" width="282"></img>
+<img scr="https://miro.medium.com/v2/resize:fit:590/1*sjJgcsTlZSvagdk06X0xzA.jpeg" width="282"></img>
 
 <!--
 - 👯 I’m looking to collaborate on ...

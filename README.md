@@ -26,7 +26,7 @@ I am eager to apply my knowledge and grow within the IT industry. If you're inte
 📫 **Contact me at:** mauro.gallo.346@gmail.com  
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG06zD3zZuY2AZDs345CcI5XkAFv8msnGHTw&s" width="250"></img>
-<img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg"></img>
+<img src="https://www.bairesdev.com/wp-content/uploads/2021/08/Flask-1.svg" width="222"></img>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkajabi-storefronts-production.kajabi-cdn.com%2Fkajabi-storefronts-production%2Fthemes%2F3067767%2Fsettings_images%2Fomx3KZGSamzipD0jXUwg_file.jpg&f=1&nofb=1&ipt=037fb97c6c212e66b80fb43998874c9d278399c80caf5b88136d2322820817e5&ipo=images" width="210"></img><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.solucionex.com%2Fsites%2Fdefault%2Ffiles%2Fposts%2Fimagen%2Fgit.jpg&f=1&nofb=1&ipt=80e6d049fc199ad4b89d92ad2e9542b2a888c9d65d4ab0148d5e8d893800b7de&ipo=images" width=196px></img><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F017%2F119%2F660%2Foriginal%2Fgithub-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg&f=1&nofb=1&ipt=10391a8fd8c56f89e389ea5c75616e007cdfbf1b4903ce8642614f7da04f986d&ipo=images" width="234"></img>
 <img src="https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg" width="250"></img>
 <img src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" width="222"></img>

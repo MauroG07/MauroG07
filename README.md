@@ -19,8 +19,8 @@ I'm passionate about **continuous learning** and process optimization. I enjoy t
 - **Testing & Debugging:** Postman  
 
 ### 📌 Featured Projects  
-- **Cinema Ticket Management Platform** – A web application for managing movie screenings and ticket purchases.  
-- **Star Wars Blog** – A platform consuming external APIs to display Star Wars universe data.  
+- ** Cinema Ticket Management Platform **– A web application designed to manage movie screenings and ticket purchases, featuring QR code generation for access.  
+ 
 
 I am eager to apply my knowledge and grow within the IT industry. If you're interested in connecting or collaborating on a project, feel free to reach out!  
 
